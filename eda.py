@@ -1,3 +1,7 @@
+# Project : Exploratory Data Analysis (EDA)
+# Author : Kritika
+# EDA of Netflix Movies and TV Shows
+
 # Importing libraries
 import pandas as pd               # Used for data analysis and handling tables
 import seaborn as sns             # Used for creating attractive graphs
@@ -71,3 +75,5 @@ sns.barplot(                    # Creates a horizontal bar graph
 plt.title("Top 10 Countries Producing Netflix Content")
 # Displaying graph
 plt.show()
+
+print("Exploratory Data Analysis Project 2 Completed Successfully")
