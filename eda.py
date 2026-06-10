@@ -1,4 +1,4 @@
-# Project : Exploratory Data Analysis (EDA)
+# Project 2 : Exploratory Data Analysis (EDA)
 # Author : Kritika
 # EDA of Netflix Movies and TV Shows
 
